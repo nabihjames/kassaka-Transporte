@@ -995,7 +995,7 @@ h3 {
         left: 0;
         width: 100%;
         flex-direction: column;
-        background-color: #ffffff;
+        background-color: rgba(28, 63, 126, 1);
         backdrop-filter: blur(10px);
         height: 0;
         overflow: hidden;
